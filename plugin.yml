@@ -1,0 +1,7 @@
+name: AnnounceClear
+main: ifteam\AnnounceClear\AnnounceClear
+version: 1.0
+author: hm
+api:
+- 1.13.0
+- 2.0.0
